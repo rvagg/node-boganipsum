@@ -1,0 +1,17 @@
+{
+    "name": "boganipsum"
+  , "version": "0.0.0"
+  , "description": "Lorem Ipsum ... Bogan Style!"
+  , "main": "index.js"
+  , "bin": {
+        "boganipsum" : "./boganipsum"
+    }
+  , "repository": {
+        "type": "git"
+      , "url": "git://github.com/rvagg/node-boganipsum.git"
+    }
+  , "authors": [
+        "Rod Vagg @rvagg <rod@vagg.org> (https://github.com/rvagg)"
+    ]
+  , "license": "MIT"
+}
