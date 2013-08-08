@@ -4,7 +4,7 @@ const defaultParagraphs         = 4
     , defaultParagraphSeparator = '\n'
 
 var data = {
-        words   : require('./words')
+        words   : require('./clean_words')
       , phrases : require('./phrases')
       , fillers : require('./fillers')
     }

@@ -1,11 +1,12 @@
 {
     "name": "boganipsum"
-  , "version": "0.0.0"
+  , "version": "0.1.0"
   , "description": "Lorem Ipsum ... Bogan Style!"
   , "main": "index.js"
   , "bin": {
         "boganipsum" : "./boganipsum"
     }
+  , "keywords": [ "lorem", "ipsum", "loremipsum", "example", "text", "filler" ]
   , "repository": {
         "type": "git"
       , "url": "git://github.com/rvagg/node-boganipsum.git"
