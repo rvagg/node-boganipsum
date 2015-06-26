@@ -4,9 +4,9 @@ const defaultParagraphs         = 4
     , defaultParagraphSeparator = '\n'
 
 var data = {
-        words   : require('./clean_words')
-      , phrases : require('./phrases')
-      , fillers : require('./fillers')
+        words   : require('./clean_words.json')
+      , phrases : require('./phrases.json')
+      , fillers : require('./fillers.json')
     }
 
   , rtrim = function (s) {
